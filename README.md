@@ -1,10 +1,12 @@
 # galdino
 Repositorio para aula de **git** e **github**
-## teste em markdown
 
+## Objetivos 
 
-este é um parágrafo. __Itálico__
+* Aprender a clonar o repositório;
+* Aprnder a colocar os arquivos para trackear;
+* Aprender a fazer o commmit;
+* Aprender a enviar as modificações para o github
+* Aprender a baixar asd modificações.
 
-Este é outo parágravo.
-
-Este é outo parágravo.
+## criar versão de arquivos modificados/incluidos/deletados 
